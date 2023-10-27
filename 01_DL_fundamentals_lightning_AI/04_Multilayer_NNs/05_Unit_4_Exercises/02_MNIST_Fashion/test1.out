@@ -1,0 +1,4 @@
+lr=0.25, one hidden layer, 30 nodes
+Training Acc   = 88.84 %
+Validation Acc = 86.98 %
+Test Acc       = 86.15 %
